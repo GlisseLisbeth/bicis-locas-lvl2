@@ -20,8 +20,8 @@
   top: 0;
   left: 0;
   bottom: 0;
-  right: 0;  
-  z-index: -1;   
+  right: 0;
+  z-index: -1;
 }
 
 #form-signup-heading{
@@ -86,7 +86,7 @@
   position: absolute;
   left: 105%;
   top: 8px;
-  width: 200px;
+  width: 280px;
   color: white;
 }
 
@@ -101,5 +101,3 @@
   right: 100%;
   top: 10px;
 }
-
-
